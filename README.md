@@ -1,4 +1,4 @@
-Note : This repository serves as a portfolio compilation of computer vision project I developed locally between November 2024 and January 2025. It was migrated to GitHub in May 2026 for documentation and review purposes.
+Note : This repository serves as a portfolio compilation of computer vision project I developed locally between November 2024 and January 2025.
 
 # Fashion Item Classification (Convolutional Neural Networks)
 
