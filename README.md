@@ -1,5 +1,3 @@
-Note : This repository serves as a portfolio compilation of computer vision project I developed locally between November 2024 and January 2025.
-
 # Fashion Item Classification (Convolutional Neural Networks)
 
 A beginner-friendly machine learning project that classifies grayscale fashion images into one of **10 categories** using **Convolutional Neural Networks (CNNs)** built with **TensorFlow/Keras**. The full walkthrough lives in the Jupyter notebook [`Fashion Item Classification (Convolutional Neural Networks).ipynb`](Fashion%20Item%20Classification%20(Convolutional%20Neural%20Networks).ipynb).
